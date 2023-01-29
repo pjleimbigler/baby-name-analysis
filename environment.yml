@@ -1,0 +1,12 @@
+name: baby-name-analysis
+channels:
+  - conda-forge
+dependencies:
+  - matplotlib
+  - python
+  - pandas
+  - jupyter
+  - numpy
+  - seaborn
+  - openpyxl
+prefix: /opt/miniconda3/envs/baby-name-analysis
